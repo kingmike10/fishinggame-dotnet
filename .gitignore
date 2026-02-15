@@ -1,0 +1,23 @@
+﻿# Build & IDE
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.swp
+*.tmp
+*.cache
+*.DotSettings.user
+
+# Tests & artefacts
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
